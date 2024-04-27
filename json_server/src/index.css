@@ -1,0 +1,24 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.Form {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+input {
+  border: none;
+  background-color: rgb(212, 212, 212);
+  border-radius: 45px;
+}
+.inputfield {
+  margin-bottom: 5px;
+}
+.Name {
+  background-color: #2596be;
+  font-size: 30px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
